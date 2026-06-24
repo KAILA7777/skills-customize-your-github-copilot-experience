@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "file-handling-to-do-list",
+      "title": "File-Based To-Do List",
+      "description": "Practice file input and output in Python by building a to-do list that saves tasks between runs",
+      "path": "assignments/file-handling-to-do-list",
+      "dueDate": "2026-07-01",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
